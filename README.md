@@ -1,11 +1,11 @@
-<h1 align="center">Prazer, Anderson Matheus</h1>
-<h3 align="center">Desenvolvedor Back-end em formação</h3>
+<h1 align="center">Pleasure, Anderson Matheus</h1>
+<h3 align="center">Back-end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=and-matheus&label=Profile%20views&color=0e75b6&style=flat" alt="and-matheus" /> </p>
 
-- Todos os meus projetos estão disponíveis em: [https://github.com/amatheus-dev?tab=repositories](https://github.com/amatheus-dev?tab=repositories)
+- All my projects: [https://github.com/amatheus-dev?tab=repositories](https://github.com/amatheus-dev?tab=repositories)
 
-- contato: **a.matheus.dev@gmail.com**
+- contact: **a.matheus.dev@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" margin="10px"/></a>
